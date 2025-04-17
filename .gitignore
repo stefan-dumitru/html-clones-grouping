@@ -1,0 +1,9 @@
+# Ignore screenshots, clusters, and Python cache
+/screenshots/
+/clusters/
+/__pycache__/
+/*.pyc
+*.log
+
+.venv/
+env/
