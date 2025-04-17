@@ -1,6 +1,6 @@
 # Ignore screenshots, clusters, and Python cache
-/screenshots/
-/clusters/
+screenshots/
+clusters/
 /__pycache__/
 /*.pyc
 *.log
